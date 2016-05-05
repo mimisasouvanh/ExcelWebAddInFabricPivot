@@ -1,0 +1,7 @@
+False
+d88d31f2-8814-482d-8043-875bdf4516b994645659-b6cb-4b56-912c-a4edfedb3058
+{5e71eadc-26e0-4978-97f3-23ba2aa69d76}{79576c42-0a2b-4ad5-9500-f5e894f45e0a}
+{7226c14d-d9b1-4090-a0cb-a29ecd148d5a}
+1.0.0.0
+ExcelWebAddInFabricPivot
+_layouts/15/

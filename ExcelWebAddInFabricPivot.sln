@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWebAddInFabricPivot", "ExcelWebAddInFabricPivot\ExcelWebAddInFabricPivot.csproj", "{C16F6B3D-FA18-457A-AD80-0627F1AED302}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelWebAddInFabricPivotWeb", "ExcelWebAddInFabricPivotWeb\ExcelWebAddInFabricPivotWeb.csproj", "{A5EE161C-0DAA-4153-8B49-7D929250F29F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16F6B3D-FA18-457A-AD80-0627F1AED302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16F6B3D-FA18-457A-AD80-0627F1AED302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16F6B3D-FA18-457A-AD80-0627F1AED302}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C16F6B3D-FA18-457A-AD80-0627F1AED302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16F6B3D-FA18-457A-AD80-0627F1AED302}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C16F6B3D-FA18-457A-AD80-0627F1AED302}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A5EE161C-0DAA-4153-8B49-7D929250F29F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5EE161C-0DAA-4153-8B49-7D929250F29F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5EE161C-0DAA-4153-8B49-7D929250F29F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5EE161C-0DAA-4153-8B49-7D929250F29F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

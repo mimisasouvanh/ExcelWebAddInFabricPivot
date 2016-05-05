@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\ExcelWebAddInFabricPivotManifest.xml
+C:\GitHub\ExcelWebAddInFabricPivot\ExcelWebAddInFabricPivot\bin\Debug\ExcelWebAddInFabricPivot.debugapp
