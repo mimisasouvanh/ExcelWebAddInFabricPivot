@@ -4678,6 +4678,16 @@
   white-space: nowrap;
 }
 
+//== Pivot content
+//
+.ms-Pivot-content {
+  display: none;
+}
+
+ms-Pivot-content.is-selected {
+    display: block;
+}
+
 .ms-Pivot-link {
   color: #333333;
   display: inline-block;

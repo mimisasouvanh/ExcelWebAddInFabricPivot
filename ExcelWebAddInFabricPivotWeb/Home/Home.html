@@ -33,14 +33,14 @@
             <br />
             <div class="ms-font-xxl ms-fontColor-themeDarkAlt ms-fontWeight-semilight">Welcome</div>
             <ul class="ms-Pivot ms-Pivot--tabs">
-                <li class="ms-Pivot-link is-selected">My files</li>
-                <li class="ms-Pivot-link">Recent</li>
+                <li class="ms-Pivot-link is-selected" data-pivotContent="[data-demo='tabs'].files">My files</li>
+                <li class="ms-Pivot-link" data-pivotContent="[data-demo='tabs'].recent">Recent</li>
             </ul>
-            <div>
-                <div id="panel1" class="ms-Panel">
+            <div data-demo="tabs">
+                <div class="ms-Pivot-content is-selected files">
                     <p class="ms-font-m-plus">This example will read the current document selection.</p>
                 </div>
-                <div id="panel2" class="ms-Panel">
+                <div class="ms-Pivot-content recent">
                     <button class="ms-Button ms-Button--primary" id="get-data-from-selection">
                         <span class="ms-Button-icon"><i class="ms-Icon ms-Icon--plus"></i></span>
                         <span class="ms-Button-label">Get data from selection</span>
